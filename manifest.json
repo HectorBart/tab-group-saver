@@ -1,0 +1,15 @@
+  {
+    "name": "Tab Group Saver",
+    "version": "1.0",
+    "description": "Tool to save groups of tabs for later, without having them open in Chrome.",
+    "manifest_version": 3,
+    "action": {
+      "default_title": "Save Group",
+      "default_popup": "popup.html"
+    },
+    "permissions": 
+    [
+      "tabGroups",
+      "tabs"
+    ]
+  }
