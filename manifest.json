@@ -10,6 +10,7 @@
     "permissions": 
     [
       "tabGroups",
-      "tabs"
+      "tabs",
+      "bookmarks"
     ]
   }
